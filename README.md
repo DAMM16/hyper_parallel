@@ -17,5 +17,5 @@ Esta es una biblioteca con implementaciones en CUDA de métodos numéricos que r
 ## Autores
 
 - [@DAMM16](https://github.com/DAMM16/)
-- [@Victor](https://)
+- [@Victor](https://https://vosores.github.io/)
 
